@@ -64,3 +64,6 @@ cert/
 # Hassas veriler
 database-backups/
 user-data/ 
+
+node_modules/
+.next/
